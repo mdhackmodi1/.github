@@ -1,0 +1,8 @@
+{
+    "name": "Mayank Modi Demo",
+    "description": "Mayank Modi Organization NodeJS Init CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "NPM Config"
+    ]
+  }
